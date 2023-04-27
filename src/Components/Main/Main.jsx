@@ -58,7 +58,7 @@ const Data = [
         destTitle: 'Sabaragamuwa University Pool Side',
         location: 'Belihuloya',
         grade: 'CULTURAL RELAX',
-        fees:'$700',
+        fees:'',
         description: 'Swimming Pool Sabaragamuwa University Of Sri Lanka is a Swimming pool located in Sri Lanka. It is one of the 237 Swimming pools in Sri Lanka. '
 
     },
@@ -206,7 +206,7 @@ const Main = () => {
         <section className="main container section">
             <div className="secTitle">
                 <h3 data-aos= "fade-right" className="title">
-                    Most visited destination
+                    Visited destination
                 </h3>
             </div>
 

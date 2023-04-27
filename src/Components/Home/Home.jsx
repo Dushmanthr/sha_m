@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react'
 import './home.scss'
-import video from '../../assets/videos/video8.mp4'
+import video from '../../assets/videos/video5.mp4'
 
 
 import {FiFacebook} from 'react-icons/fi'
