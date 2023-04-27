@@ -6,10 +6,12 @@ import Init from './Init'
 
 
 
+
 const App = () => {
     return (
         <>
-          <Init/>
+         <Init/>
+        
         </>
     )
 }

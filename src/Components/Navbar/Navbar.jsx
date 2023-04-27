@@ -5,6 +5,8 @@ import {GiTentacleHeart} from 'react-icons/gi'
 import {AiFillCloseCircle} from 'react-icons/ai'
 import {TbGridDots} from 'react-icons/tb'
 
+
+
 const Navbar = () => {
     const [active,setActive] = useState('navBar')
 
@@ -33,9 +35,11 @@ const removeNavBar = ()=>{
                         <li className="navItem">
                             <a href="" className="navLink">Home</a>
                         </li>
+                        
                         <li className="navItem">
                             <a href="" className="navLink">Wishes</a>
                         </li>
+                         
                        
                         <li className="navItem">
                             <a href="" className="navLink">About</a>
